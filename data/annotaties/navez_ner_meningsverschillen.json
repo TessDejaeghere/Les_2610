@@ -1,0 +1,83 @@
+[
+ {
+  "brief": "Ms. II 70/1/100",
+  "woord": "Paris",
+  "context": "…ille et le gouvernement a acheté mon tableau il representait les reproches d'hector aa Paris, sujet de trois figures hector, paris, hélène, maintenant je contin…",
+  "Evelien": "ART_NOM",
+  "Fien": "ART",
+  "Gaetan": "LOC",
+  "Rafael": "ART_NOM"
+ },
+ {
+  "brief": "Ms. II 70/1/100",
+  "woord": "hector",
+  "context": "…té mon tableau il representait les reproches d'hector aa Paris, sujet de trois figures hector, paris, hélène, maintenant je continue de nouveau mes etudes pour p…",
+  "Evelien": "ART_NOM",
+  "Fien": "ART",
+  "Gaetan": "ART",
+  "Rafael": "—"
+ },
+ {
+  "brief": "Ms. II 70/1/100",
+  "woord": "paris",
+  "context": "…ableau il representait les reproches d'hector aa Paris, sujet de trois figures hector, paris, hélène, maintenant je continue de nouveau mes etudes pour pouvoir…",
+  "Evelien": "ART_NOM",
+  "Fien": "ART",
+  "Gaetan": "ART",
+  "Rafael": "—"
+ },
+ {
+  "brief": "Ms. II 70/1/100",
+  "woord": "hélène",
+  "context": "…il representait les reproches d'hector aa Paris, sujet de trois figures hector, paris, hélène, maintenant je continue de nouveau mes etudes pour pouvoir s’il est…",
+  "Evelien": "ART_NOM",
+  "Fien": "ART",
+  "Gaetan": "ART",
+  "Rafael": "—"
+ },
+ {
+  "brief": "Ms. II 70/1/154",
+  "woord": "Paris",
+  "context": "…Paris le 6 Novembre 1845 Monsieur. Si les sages leçons que j'ai reçu de vou…",
+  "Evelien": "ORG",
+  "Fien": "PER",
+  "Gaetan": "LOC",
+  "Rafael": "LOC"
+ },
+ {
+  "brief": "Ms. II 70/1/200",
+  "woord": "Dieu",
+  "context": "…ti Ma famille vous faits ses amitiés et nous faisons des voeux pour votre bonheur et que Dieu vous conserve la santé ainsi que votre chère famille.…",
+  "Evelien": "—",
+  "Fien": "PER",
+  "Gaetan": "—",
+  "Rafael": "—"
+ },
+ {
+  "brief": "Ms. II 70/2/64",
+  "woord": "Venus",
+  "context": "…enir la huitième merveille son petit corps deviendra pour le moins semblable à celui de Venus je veux bien vous faire grace de toutes ses qualités morales mais j…",
+  "Evelien": "PER",
+  "Fien": "—",
+  "Gaetan": "—",
+  "Rafael": "—"
+ },
+ {
+  "brief": "Ms. II 70/2/112",
+  "woord": "Venus",
+  "context": "…ue s'est vautre à tire-Carigot sur des femmes à moins cependant que les coups de pieds de Venus qu'il avait reçus ne l'eussent dégouté non de la chose mais des femme…",
+  "Evelien": "PER_NOM",
+  "Fien": "—",
+  "Gaetan": "—",
+  "Rafael": "—"
+ },
+ {
+  "brief": "Ms. II 70/2/107",
+  "woord": "Marie",
+  "context": "…grand artiste est remplie d’une noble et imblime douleur devant le corps inanimé de cette Marie qu'il a tant aimée il a aussi une tête d'étude d'après un jeune arabe…",
+  "Evelien": "PER_NOM",
+  "Fien": "PER",
+  "Gaetan": "PER",
+  "Rafael": "PER"
+ }
+]

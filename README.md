@@ -1,6 +1,6 @@
 # AI en erfgoed: hands-on
 
-Materiaal voor de hands-on sessie van de les *Erfgoed en Digitale Transformatie* (Universiteit Gent, oktober 2026), door Tess Dejaeghere en Bas.
+Materiaal voor de hands-on sessie van de les *Erfgoed en Digitale Transformatie* (Universiteit Gent, oktober 2026), door Tess Dejaeghere en Bas Vercruysse.
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TessDejaeghere/Les_2610/blob/main/AI_en_erfgoed_hands-on.ipynb)
 
